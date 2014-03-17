@@ -1,0 +1,12 @@
+{
+  "name": " dart.gdg-lisbon.com",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Alexandre Campos <alexandrefilipecampos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+      "bunyan": "~0.22.1",
+      "hapi": "^3.0.0"
+    }
+}
